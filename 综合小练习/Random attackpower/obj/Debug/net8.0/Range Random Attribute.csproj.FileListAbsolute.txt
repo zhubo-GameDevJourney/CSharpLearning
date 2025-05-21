@@ -1,0 +1,14 @@
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.AssemblyInfoInputs.cache
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.AssemblyInfo.cs
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.csproj.CoreCompileInputs.cache
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\bin\Debug\net8.0\Range Random Attribute.exe
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\bin\Debug\net8.0\Range Random Attribute.deps.json
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\bin\Debug\net8.0\Range Random Attribute.runtimeconfig.json
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\bin\Debug\net8.0\Range Random Attribute.dll
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\bin\Debug\net8.0\Range Random Attribute.pdb
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.dll
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\refint\Range Random Attribute.dll
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.pdb
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\Range Random Attribute.genruntimeconfig.cache
+D:\computer_program_practice\C#_practice\C#Tang\Range Random attribute\obj\Debug\net8.0\ref\Range Random Attribute.dll
